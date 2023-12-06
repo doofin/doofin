@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a Scala developer and functional/mathematical programmer in general.
+
+Contribs to open source projects: 
+
+  **metals** : https://github.com/scalameta/metals/pulls?q=is%3Apr+author%3Adoofin
+
 <!--
 **doofin/doofin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
