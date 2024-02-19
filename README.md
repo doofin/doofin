@@ -3,7 +3,11 @@
 I'm a functional/mathematical programmer in general mostly writing Scala.
 
 Contribs to open source projects: 
+
+
   **dependentChisel** : Chisel on Scala 3 with improved bit width inference: https://github.com/doofin/dependentChisel
+
+  
   **metals** : https://github.com/doofin/metals/issues/2 and https://github.com/scalameta/metals/pulls?q=is%3Apr+author%3Adoofin
 
 
