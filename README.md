@@ -2,6 +2,8 @@
 
 I'm a functional/mathematical programmer in general mostly writing Scala.
 
+My blog about math : https://blog.doofin.com/
+
 Contribs to open source projects: 
 
 
