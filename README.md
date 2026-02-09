@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm a functional/mathematical programmer in general mostly writing Scala.
+I'm a functional/mathematical programmer mostly writing Scala.
 
-My blog about math : https://doofin.hashnode.dev/
+My old blog about math : https://blog.functorcoder.com/
 
-Contribs to open source projects: 
+new website: https://www.ecofunctor.com/
+
+### Contribs to open source projects: 
 
 
   **dependentChisel** : Chisel on Scala 3 with improved bit width inference: https://github.com/doofin/dependentChisel
